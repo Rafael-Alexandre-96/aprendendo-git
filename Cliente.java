@@ -3,7 +3,7 @@ public class Cliente {
     private int idade;
 
     public Cliente(String nome) {
-        this.nome = nome;
+        this.nome = nomes;
         this.idade = 1;
     }
 }
